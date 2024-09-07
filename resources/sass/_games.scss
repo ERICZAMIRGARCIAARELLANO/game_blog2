@@ -1,0 +1,8 @@
+.game-box {
+    min-width: 0px;
+    min-height: 450px;
+    background-size: cover; /* Asegura que la imagen cubra el contenedor */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    margin-bottom: 24px;
+}
